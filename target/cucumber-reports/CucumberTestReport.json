@@ -1,0 +1,92 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 8844251011,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Initializer.beforeHooks(Scenario)"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Execute all information from Actor Table",
+        "description": "",
+        "id": "database-sql-query-feature;execute-all-information-from-actor-table",
+        "after": [
+          {
+            "result": {
+              "duration": 3165093420,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Initializer.afterHooks(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1000964788,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User connects to PostgreSQL",
+            "match": {
+              "location": "SqlQueryStepDefinition.user_connects_to_PostgreSQL()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 12888978,
+              "error_message": "java.lang.NullPointerException: Cannot invoke \"java.sql.Connection.createStatement()\" because \"utlities.DataBaseUtility.connection\" is null\r\n\tat utlities.DataBaseUtility.runQuery(DataBaseUtility.java:49)\r\n\tat stepDefinitions.SqlQueryStepDefinition.user_sends(SqlQueryStepDefinition.java:16)\r\n\tat ✽.When User sends \"select * from public.actor\"(Features/DataBaseFeature.feature:5)\r\n",
+              "status": "failed"
+            },
+            "line": 5,
+            "name": "User sends \"select * from public.actor\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "select * from public.actor",
+                  "offset": 12
+                }
+              ],
+              "location": "SqlQueryStepDefinition.user_sends(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "User should get all information from that table",
+            "match": {
+              "location": "SqlQueryStepDefinition.user_should_get_all_information_from_that_table()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 2,
+            "name": "@sqlquery"
+          }
+        ]
+      }
+    ],
+    "name": "Database SQL query feature",
+    "description": "",
+    "id": "database-sql-query-feature",
+    "keyword": "Feature",
+    "uri": "Features/DataBaseFeature.feature"
+  }
+]

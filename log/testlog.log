@@ -1,0 +1,110 @@
+2020-10-01 21:07:48,416 - logger_File -INFO - Scenario Login to MyAccount Started 
+2020-10-01 21:08:02,365 - logger_File -INFO - Login to MyAccount   undefined
+2020-10-05 21:18:58,240 - logger_File -INFO - Scenario Login to MyAccount Started 
+2020-10-05 21:19:17,645 - logger_File -INFO - Login to MyAccount   undefined
+2020-10-07 21:00:42,201 - logger_File -INFO - Scenario Login to MyAccount Started 
+2020-10-07 21:01:04,261 - logger_File -INFO - Login to MyAccount   undefined
+2020-10-14 21:49:16,413 - logger_File -INFO - Scenario Login to Retail Site with multiple users Started 
+2020-10-14 21:49:34,187 - logger_File -INFO - Retail page is opened
+2020-10-14 21:49:34,209 - logger_File -INFO - Page title  is verified
+2020-10-14 21:49:35,589 - logger_File -INFO - User click on My Account
+2020-10-14 21:49:36,090 - logger_File -INFO - User click on Login
+2020-10-14 21:49:39,888 - logger_File -INFO - User enter email address
+2020-10-14 21:49:40,039 - logger_File -INFO - User enter password
+2020-10-14 21:49:41,556 - logger_File -INFO - User click on Login button
+2020-10-14 21:49:44,096 - logger_File -INFO - Login to Retail Site with multiple users   passed
+2020-10-14 21:49:44,113 - logger_File -INFO - Scenario Login to Retail Site with multiple users Started 
+2020-10-14 21:49:51,321 - logger_File -INFO - Retail page is opened
+2020-10-14 21:49:51,330 - logger_File -INFO - Page title  is verified
+2020-10-14 21:49:52,503 - logger_File -INFO - User click on My Account
+2020-10-14 21:49:52,946 - logger_File -INFO - User click on Login
+2020-10-14 21:49:56,592 - logger_File -INFO - User enter email address
+2020-10-14 21:49:56,766 - logger_File -INFO - User enter password
+2020-10-14 21:49:58,060 - logger_File -INFO - User click on Login button
+2020-10-14 21:50:01,908 - logger_File -INFO - Login to Retail Site with multiple users   passed
+2020-10-14 21:50:01,916 - logger_File -INFO - Scenario Login to Retail Site with multiple users Started 
+2020-10-14 21:50:08,628 - logger_File -INFO - Retail page is opened
+2020-10-14 21:50:08,657 - logger_File -INFO - Page title  is verified
+2020-10-14 21:50:09,919 - logger_File -INFO - User click on My Account
+2020-10-14 21:50:10,370 - logger_File -INFO - User click on Login
+2020-10-14 21:50:14,123 - logger_File -INFO - User enter email address
+2020-10-14 21:50:14,323 - logger_File -INFO - User enter password
+2020-10-14 21:50:15,576 - logger_File -INFO - User click on Login button
+2020-10-14 21:50:19,416 - logger_File -INFO - Login to Retail Site with multiple users   passed
+2020-10-15 14:07:15,838 - logger_File -INFO - Scenario Login to Retail Site with multiple users Started 
+2020-10-15 14:07:33,899 - logger_File -INFO - Retail page is opened
+2020-10-15 14:07:33,953 - logger_File -INFO - Page title  is verified
+2020-10-15 14:07:34,830 - logger_File -INFO - User click on My Account
+2020-10-15 14:07:35,476 - logger_File -INFO - User click on Login
+2020-10-15 14:07:39,115 - logger_File -INFO - User enter email address
+2020-10-15 14:07:39,271 - logger_File -INFO - User enter password
+2020-10-15 14:07:40,584 - logger_File -INFO - User click on Login button
+2020-10-15 14:07:44,448 - logger_File -INFO - Login to Retail Site with multiple users   passed
+2020-10-15 14:07:44,493 - logger_File -INFO - Scenario Login to Retail Site with multiple users Started 
+2020-10-15 14:07:51,852 - logger_File -INFO - Retail page is opened
+2020-10-15 14:07:51,881 - logger_File -INFO - Page title  is verified
+2020-10-15 14:07:52,481 - logger_File -INFO - User click on My Account
+2020-10-15 14:07:52,924 - logger_File -INFO - User click on Login
+2020-10-15 14:07:56,633 - logger_File -INFO - User enter email address
+2020-10-15 14:07:56,859 - logger_File -INFO - User enter password
+2020-10-15 14:07:58,024 - logger_File -INFO - User click on Login button
+2020-10-15 14:08:01,521 - logger_File -INFO - Login to Retail Site with multiple users   passed
+2020-10-15 14:08:01,541 - logger_File -INFO - Scenario Login to Retail Site with multiple users Started 
+2020-10-15 14:08:08,739 - logger_File -INFO - Retail page is opened
+2020-10-15 14:08:08,751 - logger_File -INFO - Page title  is verified
+2020-10-15 14:08:09,509 - logger_File -INFO - User click on My Account
+2020-10-15 14:08:09,958 - logger_File -INFO - User click on Login
+2020-10-15 14:08:13,522 - logger_File -INFO - User enter email address
+2020-10-15 14:08:13,759 - logger_File -INFO - User enter password
+2020-10-15 14:08:15,138 - logger_File -INFO - User click on Login button
+2020-10-15 14:08:18,882 - logger_File -INFO - Login to Retail Site with multiple users   passed
+2020-10-15 21:41:01,508 - logger_File -INFO - Scenario Register Account for new Retail user Started 
+2020-10-15 21:41:21,777 - logger_File -INFO - Retail page is opened
+2020-10-15 21:41:21,817 - logger_File -INFO - Page title  is verified
+2020-10-15 21:41:26,140 - logger_File -INFO - Register Account for new Retail user   undefined
+2020-10-15 21:45:26,677 - logger_File -INFO - Scenario Register Account for new Retail user Started 
+2020-10-15 21:45:39,674 - logger_File -INFO - Retail page is opened
+2020-10-15 21:45:39,695 - logger_File -INFO - Page title  is verified
+2020-10-15 21:45:45,377 - logger_File -INFO - Register Account for new Retail user   undefined
+2020-10-17 23:38:04,546 - logger_File -INFO - Scenario Register Account for new Retail user Started 
+2020-10-17 23:38:18,792 - logger_File -INFO - Retail page is opened
+2020-10-17 23:38:18,827 - logger_File -INFO - Page title  is verified
+2020-10-17 23:38:24,604 - logger_File -INFO - Register Account for new Retail user   undefined
+2020-10-17 23:41:10,441 - logger_File -INFO - Scenario Register Account for new Retail user Started 
+2020-10-17 23:41:20,869 - logger_File -INFO - Retail page is opened
+2020-10-17 23:41:20,890 - logger_File -INFO - Page title  is verified
+2020-10-17 23:41:25,957 - logger_File -INFO - Register Account for new Retail user   undefined
+2020-10-19 19:47:53,197 - logger_File -INFO - Scenario Register Account for new Retail user Started 
+2020-10-19 19:48:14,968 - logger_File -INFO - Retail page is opened
+2020-10-19 19:48:15,029 - logger_File -INFO - Page title  is verified
+2020-10-19 19:48:20,489 - logger_File -INFO - Register Account for new Retail user   undefined
+2020-10-19 19:51:35,237 - logger_File -INFO - Scenario Register Account for new Retail user Started 
+2020-10-19 19:51:48,349 - logger_File -INFO - Retail page is opened
+2020-10-19 19:51:48,369 - logger_File -INFO - Page title  is verified
+2020-10-19 19:51:54,062 - logger_File -INFO - Register Account for new Retail user   undefined
+2020-10-19 19:58:03,214 - logger_File -INFO - Scenario Register Account for new Retail user Started 
+2020-10-19 19:58:14,894 - logger_File -INFO - Retail page is opened
+2020-10-19 19:58:14,916 - logger_File -INFO - Page title  is verified
+2020-10-19 19:58:16,574 - logger_File -INFO - User click on My Account
+2020-10-19 19:58:17,507 - logger_File -INFO - user clicked on Register
+2020-10-19 19:58:19,218 - logger_File -INFO - user completed Register form with required information
+2020-10-19 19:59:15,042 - logger_File -INFO - Register Account for new Retail user   failed
+2020-10-19 19:59:40,101 - logger_File -INFO - Scenario Register Account for new Retail user Started 
+2020-10-19 19:59:51,716 - logger_File -INFO - Retail page is opened
+2020-10-19 19:59:51,765 - logger_File -INFO - Page title  is verified
+2020-10-19 19:59:53,386 - logger_File -INFO - User click on My Account
+2020-10-19 19:59:54,597 - logger_File -INFO - user clicked on Register
+2020-10-19 19:59:56,037 - logger_File -INFO - user completed Register form with required information
+2020-10-19 20:00:02,733 - logger_File -INFO - Account was created Successfully
+2020-10-19 20:00:06,862 - logger_File -INFO - Register Account for new Retail user   passed
+2020-10-21 20:06:05,459 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2020-10-21 20:06:10,532 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://raw.githubusercontent.com:443: The target server failed to respond
+2020-10-21 20:06:10,551 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {s}->https://raw.githubusercontent.com:443
+2020-10-21 20:06:25,348 - logger_File -INFO - Connection has been established
+2020-10-21 20:06:28,962 - logger_File -INFO - Execute all information from Actor Table   failed
+2020-10-21 20:08:11,166 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2020-10-21 20:08:21,841 - logger_File -INFO - Connection has been established
+2020-10-21 20:08:24,897 - logger_File -INFO - Execute all information from Actor Table   failed
+2020-10-21 20:10:01,453 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2020-10-21 20:10:10,919 - logger_File -INFO - Connection has been established
+2020-10-21 20:10:14,169 - logger_File -INFO - Execute all information from Actor Table   failed
